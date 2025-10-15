@@ -6,11 +6,11 @@ editor: visual
 
 # A Gapminder Analysis
 
-
 ```{r}
 library(tidyverse)
 library(gapminder)
 ```
+
 ```{r}
 gapminder::gapminder_unfiltered  |> 
   group_by(year) |>
@@ -21,3 +21,4 @@ gapminder::gapminder_unfiltered  |>
   sumdat
 ```
 
+I was on main
