@@ -22,3 +22,5 @@ gapminder::gapminder_unfiltered  |>
 ```
 
 Hello world!
+
+Happy day!
